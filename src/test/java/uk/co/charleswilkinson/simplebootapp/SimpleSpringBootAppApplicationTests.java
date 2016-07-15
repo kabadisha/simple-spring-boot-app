@@ -1,4 +1,4 @@
-package uk.co.charleswilkinson;
+package uk.co.charleswilkinson.simplebootapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
