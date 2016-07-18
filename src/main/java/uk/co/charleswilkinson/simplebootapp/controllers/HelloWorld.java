@@ -20,6 +20,6 @@ public class HelloWorld {
 							   HttpServletRequest request,
 							   HttpServletResponse response) {
 
-		return "Hello World";
+		return "Hello World!";
 	}
 }
