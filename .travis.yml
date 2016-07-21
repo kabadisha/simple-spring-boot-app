@@ -2,6 +2,8 @@ language: java
 jdk:
 - oraclejdk8
 
+before_script: ./before-script.sh
+
 deploy:
   provider: heroku
   api_key:
